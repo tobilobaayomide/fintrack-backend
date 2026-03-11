@@ -14,7 +14,7 @@ const app = express()
 app.use(cors({
   origin: [
     "http://localhost:5173",          
-    "https://fintrack.vercel.app",    
+    "https://fintrack26.vercel.app",    
   ],
   credentials: true,
 }))
